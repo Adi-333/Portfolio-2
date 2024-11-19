@@ -1,5 +1,5 @@
-https://adi-333.github.io/Portfolio-2/potfolio2/index.html
-#Use this link to open the site
+https://adi-333.github.io/Portfolio-2/potfolio2/index.html <br>
+# Use this link to open the site
 ## Note: The site is not responsive as of now.
 
 # Portfolio-2
